@@ -1,0 +1,2 @@
+-- TO_DATE
+SELECT * FROM HOTEL WHERE FECHA <= TO_DATE('2022/10/14', 'yyyy/mm/dd');
